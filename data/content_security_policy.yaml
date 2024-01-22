@@ -6,3 +6,5 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "www.youtube.com"
+  - "player.vimeo.com"
+  - "vimeo.com"
