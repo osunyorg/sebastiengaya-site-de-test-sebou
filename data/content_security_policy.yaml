@@ -8,3 +8,5 @@ allowed_domains:
   - "www.youtube.com"
   - "player.vimeo.com"
   - "vimeo.com"
+  - "www.instagram.com"
+  - "www.w3.org"
